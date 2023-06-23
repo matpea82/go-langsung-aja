@@ -1,7 +1,7 @@
 # **Tutorial: Go Langsung aja**
 
 ## Daftar Isi  
-## [Prasyaratan-prasyaratan](#prasyaratan-prasyaratan)
+## [Prasyaratan-prasyaratan](#**prasyaratan-prasyaratan**)
 ## [Pasang Go](PASANG.md)
 ## [Tulis beberapa kode](TULIS.md)
 ## [Panggil kode yang ada di paket eksternal](PANGGIL_EKSTERNAL.md)
