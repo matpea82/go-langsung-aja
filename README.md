@@ -23,7 +23,7 @@ Setelah kita telah selesai memasang dan memastikannya, kita akan membangun sebua
 Untuk menulis kode Go, Pertama Anda perlu untuk mengunduh dan memasang perkakas-perkakas pengembangan.
 
 
-Versi terkini perkakas-perkakas tersebut dapat ditemukan pada halaman unduh di [**situs Go**](https://go.dev/download).
+Versi terkini perkakas-perkakas tersebut dapat ditemukan pada halaman unduh di [**situs Go**](https://go.dev/dl/go1.15.2.linux-amd64.tar.gz).
 
 
 Pilihlah unduhan untuk platform dan pasanglah. Pemasang `.pkg` untuk Mac dan `.msi` untuk Windows memasang secara otomatis di dalam lokasi yang benar, menghilangkan pemasangan yang lama, dan meletakkan biner Go di dalam path eksekusi semberono.
